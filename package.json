@@ -1,0 +1,19 @@
+{
+  "name": "simple-static-server",
+  "version": "1.0.0",
+  "description": "test simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "server"
+  ],
+  "author": "Joe Corcoran",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
